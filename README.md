@@ -2,6 +2,16 @@
 
 OpenSCAD model for printing directly around a YubiKey Nano 5C for ease of inserting/removing the device from a laptop or phone without needing tools, and hopefully making it harder to lose.
 
+![pic2](/home/growlph/3D Printer Models/YubiKey Nano 5C Bracket/pic2.jpg)
+
+
+
+![pic1](/home/growlph/3D Printer Models/YubiKey Nano 5C Bracket/pic1.jpg)
+
+
+
+![pic3](/home/growlph/3D Printer Models/YubiKey Nano 5C Bracket/pic3.jpg)
+
 ### Slicing
 
 Place on build surface with the USB port facing down.
